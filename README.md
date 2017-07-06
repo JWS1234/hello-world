@@ -1,2 +1,2 @@
 # hello-world
-Practice repository
+This is a practice repository for the Web Developer Bootvcamp
